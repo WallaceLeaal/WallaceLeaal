@@ -1,7 +1,7 @@
 # Olá! Me chamo Wallace Leal.
 #### - Tenho 28 anos, moro em Porto Ferreira - SP
 #### - Sou estudante de DSM (Desenvolvimento de Software Multiplataforma) na Fatec de Porto Ferreira
-#### - Me formei em ADS (Análise e Desenvolvimento de Software) na UniNove em São Paulo
+#### - Estou me formando em ADS (Análise e Desenvolvimento de Software) na UniNove em São Paulo
 ##  - Estou a procura do meu primeiro emprego na área!
 
 <div style="display: inline_block"><br>
